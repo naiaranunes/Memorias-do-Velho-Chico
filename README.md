@@ -35,3 +35,12 @@ Criar uma aplicação web simples e funcional que permita:
 - PHP
 - SQL
 
+## 👁️ Visualização
+
+![Tela 1](assets/images/screens/tela1.png)
+![Tela 2](assets/images/screens/tela2.png)
+![Tela 3](assets/images/screens/tela3.png)
+![Tela 4](assets/images/screens/tela4.png)
+![Tela 5](assets/images/screens/tela5.png)
+![Tela 6](assets/images/screens/tela6.png)
+![Tela 7](assets/images/screens/tela7.png)
